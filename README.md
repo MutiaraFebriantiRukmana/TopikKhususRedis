@@ -1,6 +1,6 @@
 # Go Redis Clean Architecture
 Tugas Praktikum Redis menggunakan Golang dengan standar Clean Architecture.
-# Promt AI [menggunakan extention blackbox AI di vscode]
+# Prom AI [menggunakan extention blackbox AI di vscode]
 Please generate a complete Golang backend project structure for a Redis-based application using Clean Architecture.
 I need you to provide code for these specific files:
 domain/user.go: (User struct and UserRepository interface)
